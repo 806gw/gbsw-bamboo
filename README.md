@@ -43,8 +43,8 @@
       </a>
      </td>
       <td align="center">
-      <a href="https://github.com/jinseung0327">
-        <img src="https://avatars.githubusercontent.com/jinseung0327" width="100px" height="100px" />
+      <a href="https://github.com/wlstmd">
+        <img src="https://avatars.githubusercontent.com/wlstmd" width="100px" height="100px" />
         <br />
         유진승
       </a>
